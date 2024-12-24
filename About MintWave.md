@@ -1,13 +1,13 @@
 # AI-Powered Crypto Trading Bot
 
 ## Project Overview
-Our AI-powered crypto trading bot is an advanced platform designed to simplify cryptocurrency trading for both beginners and experienced users. 
+AI-powered crypto trading bot is an advanced platform designed to simplify cryptocurrency trading for both beginners and experienced users. 
 Built on the Avalanche blockchain, it leverages state-of-the-art AI, smart contracts, and automated strategies to enable seamless copy trading, arbitrage trading, and trading in both market directions. 
 The bot offers a user-friendly Beginner Mode to ensure accessibility while maintaining robust risk management and performance for seasoned traders.
 
 ---
 
-## The Problem We Are Solving
+## The Problem
 ### 1. **Lack of Accessibility for Beginners**
 Cryptocurrency trading is often perceived as complex and intimidating, particularly for new entrants. 
 Many platforms require advanced technical knowledge and experience, creating barriers to entry.
@@ -24,7 +24,7 @@ Many trading platforms lack robust risk management tools, leading to potential l
 ---
 
 ## Our Solution
-We have developed a comprehensive AI-powered trading bot with the following features:
+A comprehensive AI-powered trading bot with the following features:
 
 ### **1. Beginner-Friendly Mode**
 - Simplified interface with curated strategies for new traders.
@@ -109,10 +109,10 @@ Its decentralized nature ensures transparency and security for all transactions.
 ---
 
 ## Getting Started
-1. Clone the repository: `git clone https://github.com/your-repo/ai-crypto-trading-bot.git`
-2. Install dependencies: `npm install`
+1. Clone the repository: `git clone https://github.com/your-repo/mintwave.git`
+2. Install dependencies: `npm install` To be updated 
 3. Deploy smart contracts on Avalanche Testnet.
-4. Start the bot: `npm start`
+4. Start the bot: `npm start` To be updated
 
 ---
 
@@ -120,7 +120,4 @@ Its decentralized nature ensures transparency and security for all transactions.
 We welcome contributions from the community! Please submit a pull request or open an issue to suggest improvements or report bugs.
 
 ---
-
-## Contact
-For questions, feedback, or support, please contact us at **support@crypto-bot.ai**.
 
