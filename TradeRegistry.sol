@@ -88,7 +88,23 @@ contract TraderRegistry {
     }
 }
 
+//Key Points of the Contract:
+Trader Registration:
 
+Traders register by calling registerTrader with their name and metadata.
+Metadata can store additional information such as trading style or performance history.
+Trader Verification:
+
+Admin verifies traders using verifyTrader, enabling them for copy trading.
+Admin Role:
+
+The admin manages the verification process and can transfer admin rights to another address.
+Transparency:
+
+Users can query registered and verified traders via getTrader and getAllTraders.
+Scalability:
+
+Built to handle growing numbers of traders efficiently.
     
 
 
